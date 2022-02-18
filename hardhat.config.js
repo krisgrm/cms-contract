@@ -37,6 +37,12 @@ module.exports = {
       accounts: {
         mnemonic: MNEMONIC
       }
+    },
+    rinkeby: {
+      url: `https://rinkeby.infura.io/v3/${INFURA_API_KEY}`,
+      accounts: {
+        mnemonic: MNEMONIC
+      }
     }
   }
 };

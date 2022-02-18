@@ -13,3 +13,10 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+
+## Gorli deployment
+Address: `0xab62F94EC37E7F8c7a7DA560C6a1B6225362Cd12`
+
+## Rinkeby deployment
+Address: `0xab62F94EC37E7F8c7a7DA560C6a1B6225362Cd12`
